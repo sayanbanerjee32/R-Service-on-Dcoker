@@ -1,3 +1,6 @@
+
+This is part 1 and this describes how to deploy single instance of a R service on docer
+
 ## Example R service code:
  
  
